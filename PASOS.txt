@@ -1,0 +1,15 @@
+PASOS PARA SUBIR Y USAR LA WEB ESCANEO MAC TCU - SUNCRAFT
+
+1️⃣ Abre en el móvil https://replit.com
+2️⃣ Crea una cuenta (solo email y contraseña).
+3️⃣ Pulsa "Create" > "Import from ZIP" y sube este archivo ZIP.
+4️⃣ Cuando cargue, abre la consola y escribe:
+   pip install -r requirements.txt
+5️⃣ Luego escribe:
+   python app.py
+6️⃣ Replit te mostrará una URL pública (por ejemplo https://xxxx.repl.co).
+   Esa es la web que debes abrir desde el móvil.
+7️⃣ Permite cámara y ubicación cuando el navegador lo pida.
+8️⃣ Pulsa "Iniciar escaneo" y enfoca la numeración debajo del código de barras.
+9️⃣ Usa "Descartar última" si el OCR la leyó mal.
+🔟 Pulsa "Descargar Excel general" para obtener el archivo con todas las lecturas.
